@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# print("Hello World") :wave:  
-## console.log("Hello World")
-## select * from _table_ where name = "Hello World"
-## \<?php echo "Hello World";  ?>
+### print("Hello World") :wave:  
+### console.log("Hello World")
+### select * from _table_ where name = "Hello World"
+### \<?php echo "Hello World";  ?>
  
 <!--
 Por hobby comencé a aprender por mi cuenta, terminé haciendo cursos y aprendí Front-end, tengo 2 años de experiencia en la creación de sitios web, también tengo experiencia en Bases de datos Relacion (**SQL**) y Sistemas de Gestión de estas BBDD (**MySQL**, **SQL Server**, **PosgreSQL**)  -->
