@@ -26,6 +26,13 @@ Apasionado por la tecnología y la ciencia de datos, tengo manejo Front-end (**H
 
 Me caracterizo por ser una persona disciplinada, entusiasta y constante en la consecución de mis objetivos. Si deseas conocer más acerca de mi trabajo, no dudes en contactarme a través de los siguientes medios:
 
+:phone: +57 318 3536189.
+
+📫 : octaviocanon@gmail.com
+
+:octocat: https://octaviocanon.github.io/Portfolio/
+
+<!-- :email -->
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons  androidstudio,c,cs,cpp,java,dart,flutter,dotnet,nodejs,firebase,gtk,docker,materialui,postman,eclipse,bash,linux,ai,mongodb,nodejs-->
 <p align="left">
@@ -35,10 +42,3 @@ Me caracterizo por ser una persona disciplinada, entusiasta y constante en la co
 </p>
 <br>
 
-:phone: +57 318 3536189.
-
-📫 : octaviocanon@gmail.com
-
-:octocat: https://octaviocanon.github.io/Portfolio/
-
-<!-- :email -->
