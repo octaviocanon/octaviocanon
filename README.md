@@ -19,6 +19,8 @@ Here are some ideas to get you started:
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&random=false&width=435&lines=Front-end++and+Back-end+Developer;Data+Analyst+for+Passion;Data+Science+Student)](https://git.io/typing-svg)
+
 ### print("Hello World") :wave:  
 ### console.log("Hello World")
 ### select * from _table_ where name = "Hello World"
