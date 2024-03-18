@@ -14,11 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 ### print("Hello World") :wave:  
 ### console.log("Hello World")
 ### select * from _table_ where name = "Hello World"
 ### \<?php echo "Hello World";  ?>
- 
+
 <!--
 Por hobby comencé a aprender por mi cuenta, terminé haciendo cursos y aprendí Front-end, tengo 2 años de experiencia en la creación de sitios web, también tengo experiencia en Bases de datos Relacion (**SQL**) y Sistemas de Gestión de estas BBDD (**MySQL**, **SQL Server**, **PosgreSQL**)  -->
 
